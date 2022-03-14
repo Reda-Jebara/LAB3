@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class TASK1
+public class TASK_1
 
 {
     public static void main(String[] args) throws IOException{
@@ -13,11 +13,11 @@ public class TASK1
         System.out.println("Please enter ur first number");
 
 
-        firstNumberAymen=Float.parseFloat(rD.readLine());
+        firstNumberReda=Float.parseFloat(rD.readLine());
         System.out.println("Please enter ur Second number");
 
 
-        SecondNumberAymen=Float.parseFloat(rD.readLine());
+        SecondNumberReda=Float.parseFloat(rD.readLine());
 
         sum=firstNumberReda + SecondNumberReda;
         Sub=firstNumberReda - SecondNumberReda;

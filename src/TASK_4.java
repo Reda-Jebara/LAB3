@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class TASK4
+public class TASK_4
 {
     public static void main(String[] args) throws IOException
     {

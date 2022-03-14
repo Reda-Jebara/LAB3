@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 
-public class TASK3
+public class TASK_3
 {
     public static void main(String[] args) throws IOException {
         ///////////////Let's write a program that solve the quadratic equation ax2+bx+c=0;/////////////

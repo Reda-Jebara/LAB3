@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class TASK2
+public class TASK_2
 
 {
     public static void main(String[] args) throws IOException {
@@ -15,7 +15,7 @@ public class TASK2
 
         System.out.println("Please enter ur weight");
         weightReda=Float.parseFloat(rd.readLine());
-        heightpowReda = Math.pow(heightAyman,2);
+        heightpowReda = Math.pow(heightReda,2);
         float BMI= weightReda / (float)heightpowReda;
 
         if

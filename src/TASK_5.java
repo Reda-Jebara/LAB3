@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Random;
 
-public class TASK5
+public class TASK_5
 {
     public static void main(String[] args) throws IOException
     {
